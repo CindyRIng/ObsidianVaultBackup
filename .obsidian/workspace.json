@@ -279,7 +279,7 @@
                     "file": "Resource/Frank Mittelbach, Ulrike Fischer - The LaTeX Companion_ Parts I & II, 3rd Edition.pdf",
                     "page": 74,
                     "left": -8,
-                    "top": 374,
+                    "top": 249,
                     "zoom": 1.877118644067797
                   }
                 }
@@ -299,9 +299,10 @@
   },
   "active": "a6310289da45a456",
   "lastOpenFiles": [
-    "TODO",
-    "Resource/Frank Mittelbach, Ulrike Fischer - The LaTeX Companion_ Parts I & II, 3rd Edition.pdf",
+    "README.md",
     "Inbox/The LaTeX Companion by Frank Mittelbach, Ulrike Fischer.md",
+    "Resource/Frank Mittelbach, Ulrike Fischer - The LaTeX Companion_ Parts I & II, 3rd Edition.pdf",
+    "TODO",
     "Note/Tex/Latex Companion Note/编号设置.md",
     "Inbox/把信息交给未来的自己——构建你的第二大脑  Mr.Huang Talk.md",
     "Note/Sparkle/对生活的理解.md",
@@ -335,7 +336,6 @@
     "Pasted image 20240701195054.png",
     "Book/The LaTEX Companion.pdf",
     "Book/The TeXbook.pdf",
-    "Book/tennis/Tennis anatomy.pdf",
     "Note/Tex/Latex Companion Note/Untitled.canvas",
     "Untitled.canvas",
     "Tex/Latex Companion Note/Untitled.canvas"
