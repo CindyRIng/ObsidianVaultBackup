@@ -6,12 +6,19 @@
   "obsidian-git",
   "obsidian-style-settings",
   "obsidian-day-planner",
-  "obsidian-annotator",
   "obsidian-advanced-uri",
   "obsidian-minimal-settings",
   "templater-obsidian",
   "obsidian-kanban",
   "obsidian-icon-folder",
   "obsidian-excalidraw-plugin",
-  "obsidian-hider"
+  "obsidian-hider",
+  "pdf-plus",
+  "obsidian-advanced-slides",
+  "obsidian-auto-link-title",
+  "obsidian-outliner",
+  "obsidian-linter",
+  "obsidian-local-rest-api",
+  "obsidian-reminder-plugin",
+  "3d-graph-new"
 ]

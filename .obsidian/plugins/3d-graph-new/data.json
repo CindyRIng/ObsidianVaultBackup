@@ -1,0 +1,116 @@
+{
+  "savedSettings": [
+    {
+      "id": "1b077048-edba-43b0-90fa-b72b161a85db",
+      "title": "temp",
+      "setting": {
+        "filter": {
+          "searchQuery": "",
+          "showOrphans": true,
+          "showAttachments": false
+        },
+        "groups": [
+          {
+            "query": "tag:#方法论  ",
+            "color": "#4606ac"
+          },
+          {
+            "query": "tag:#工具  ",
+            "color": "#f60b5e"
+          },
+          {
+            "query": "tag:#科学  ",
+            "color": "#2f40e6"
+          }
+        ],
+        "display": {
+          "nodeSize": 2.3,
+          "linkThickness": 2,
+          "linkDistance": 100,
+          "nodeRepulsion": 2900,
+          "distanceFromFocal": 330,
+          "nodeHoverColor": "#ff0000",
+          "nodeHoverNeighbourColor": "#00ff00",
+          "linkHoverColor": "#0000ff",
+          "showExtension": false,
+          "showFullPath": false,
+          "showCenterCoordinates": false,
+          "showLinkArrow": true,
+          "dontMoveWhenDrag": false,
+          "dagOrientation": "null"
+        }
+      },
+      "type": "global"
+    }
+  ],
+  "temporaryLocalGraphSetting": {
+    "filter": {
+      "searchQuery": "",
+      "showOrphans": true,
+      "showAttachments": false,
+      "depth": 1,
+      "linkType": "both"
+    },
+    "groups": [],
+    "display": {
+      "nodeSize": 3,
+      "linkThickness": 2,
+      "linkDistance": 100,
+      "nodeRepulsion": 2800,
+      "distanceFromFocal": 300,
+      "nodeHoverColor": "#ff0000",
+      "nodeHoverNeighbourColor": "#00ff00",
+      "linkHoverColor": "#0000ff",
+      "showExtension": false,
+      "showFullPath": false,
+      "showCenterCoordinates": true,
+      "showLinkArrow": true,
+      "dontMoveWhenDrag": false,
+      "dagOrientation": "null"
+    }
+  },
+  "temporaryGlobalGraphSetting": {
+    "filter": {
+      "searchQuery": "",
+      "showOrphans": true,
+      "showAttachments": false
+    },
+    "groups": [
+      {
+        "query": "tag:#方法论  ",
+        "color": "#4606ac"
+      },
+      {
+        "query": "tag:#工具  ",
+        "color": "#f60b5e"
+      },
+      {
+        "query": "tag:#科学  ",
+        "color": "#2f40e6"
+      }
+    ],
+    "display": {
+      "nodeSize": 2.3,
+      "linkThickness": 2,
+      "linkDistance": 100,
+      "nodeRepulsion": 2900,
+      "distanceFromFocal": 330,
+      "nodeHoverColor": "#ff0000",
+      "nodeHoverNeighbourColor": "#00ff00",
+      "linkHoverColor": "#0000ff",
+      "showExtension": false,
+      "showFullPath": false,
+      "showCenterCoordinates": false,
+      "showLinkArrow": true,
+      "dontMoveWhenDrag": false,
+      "dagOrientation": "null"
+    }
+  },
+  "pluginSetting": {
+    "maxNodeNumber": 1000,
+    "searchEngine": "default",
+    "rightClickToPan": false,
+    "commandLeftClickNode": "openNodeInNewTab",
+    "commandRightClickNode": "focusNode"
+  }
+}

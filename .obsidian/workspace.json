@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "95f7bc8d0f5fac60",
+        "id": "d8334d89d09a2780",
         "type": "tabs",
         "children": [
           {
-            "id": "8b4331f9491eec32",
+            "id": "56ceda849e9c430d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparkle/就业的概率论解释.md",
+                "file": "Inbox/The LaTeX Companion by Frank Mittelbach, Ulrike Fischer.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,6 +31,7 @@
       {
         "id": "84dc7669cd34413b",
         "type": "tabs",
+        "dimension": 68.21608040201005,
         "children": [
           {
             "id": "9781c603dda01de2",
@@ -48,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#总览",
+                "query": "[",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,13 +81,65 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "c1f507ba3453a175",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Inbox/The LaTeX Companion by Frank Mittelbach, Ulrike Fischer.md"
+              }
+            }
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "8e6abdeaec8fc835",
+        "type": "tabs",
+        "dimension": 31.783919597989954,
+        "children": [
+          {
+            "id": "f69bf5c79e261020",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Inbox/The LaTeX Companion by Frank Mittelbach, Ulrike Fischer.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8916864990836867,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 274.5024719238281
   },
   "right": {
     "id": "9ac6ea4a52fc0095",
@@ -95,7 +148,7 @@
       {
         "id": "dd8474fc21b092b3",
         "type": "tabs",
-        "dimension": 53.92857142857142,
+        "dimension": 35.87604290822408,
         "children": [
           {
             "id": "faa639927ecb129a",
@@ -109,24 +162,36 @@
             }
           },
           {
-            "id": "403618921c45586f",
+            "id": "be7908362de9b53d",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Sparkle/就业的概率论解释.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "type": "calendar",
+              "state": {}
             }
           },
+          {
+            "id": "8d9a7878d2ed37ae",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "238a0b577c06ce5f",
+        "type": "tabs",
+        "dimension": 64.12395709177592,
+        "children": [
           {
             "id": "6625f86bf6cd68f4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sparkle/就业的概率论解释.md",
+                "file": "Inbox/The LaTeX Companion by Frank Mittelbach, Ulrike Fischer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +203,19 @@
             }
           },
           {
-            "id": "3392f024a361376f",
+            "id": "403618921c45586f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Inbox/The LaTeX Companion by Frank Mittelbach, Ulrike Fischer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e373c6beca5a7e5",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -146,101 +223,120 @@
             }
           },
           {
-            "id": "8d9a7878d2ed37ae",
+            "id": "eb09db863899e8d5",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "reminder-list",
               "state": {}
-            }
-          },
-          {
-            "id": "c1f507ba3453a175",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Sparkle/就业的概率论解释.md"
-              }
             }
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "ceffb6b657fd55a2",
-        "type": "tabs",
-        "dimension": 46.07142857142857,
-        "children": [
-          {
-            "id": "be7908362de9b53d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "3d-graph-new:Global 3D Graph": false,
       "daily-notes:Open today's daily note": false,
       "audio-recorder:Start/stop recording": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "templater-obsidian:Templater": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-planner:Timeline": false,
+      "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
+  },
+  "floating": {
+    "id": "5ad33d6332628aca",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b40f3adffbbb26f4",
+        "type": "window",
+        "children": [
+          {
+            "id": "4a0e0ecac0314324",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e3e08f49819d89fa",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Resource/Frank Mittelbach, Ulrike Fischer - The LaTeX Companion_ Parts I & II, 3rd Edition.pdf",
+                    "page": 74,
+                    "left": -8,
+                    "top": 374,
+                    "zoom": 1.877118644067797
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 269,
+        "y": 0,
+        "width": 722,
+        "height": 840,
+        "maximize": true,
+        "zoom": -0.5
+      }
+    ]
   },
   "active": "a6310289da45a456",
   "lastOpenFiles": [
-    "Sparkle/就业的概率论解释.md",
-    "Sparkle/对生活的理解.md",
-    "Note/Tex/Latex Companion Note/字体与页面格式.md",
+    "TODO",
+    "Resource/Frank Mittelbach, Ulrike Fischer - The LaTeX Companion_ Parts I & II, 3rd Edition.pdf",
+    "Inbox/The LaTeX Companion by Frank Mittelbach, Ulrike Fischer.md",
+    "Note/Tex/Latex Companion Note/编号设置.md",
+    "Inbox/把信息交给未来的自己——构建你的第二大脑  Mr.Huang Talk.md",
+    "Note/Sparkle/对生活的理解.md",
+    "Note/Sparkle/对待工具的态度.md",
+    "Inbox/PKMer_个人知识管理.md",
+    "Inbox/我们需要什么样的双向链接，它适合你吗？ - 少数派.md",
+    "Inbox/怎么看待应试思维？ - 知乎.md",
+    "Inbox/当我们在讨论双链时，我们讨论些什么 - 少数派.md",
+    "Note/Sparkle/就业的概率论解释.md",
     "Note/Tex/Latex Companion Note/LaTex学习重心.md",
-    "Pasted image 20240701195054.png",
+    "Note/Sparkle/对生命的理解.md",
+    "Knowledge/工具.md",
+    "Dairy/24.07.02.md",
+    "Dairy/24.07.01.md",
+    "Dairy/24.07.03.md",
+    "Knowledge/方法论.md",
+    "把信息交给未来的自己——构建你的第二大脑  Mr.Huang Talk.md",
+    "Note/Tex/Latex Companion Note/目录.md",
+    "Note/Tex/Latex Companion Note/引用.md",
+    "Note/Tex/Latex Companion Note/制表.md",
+    "Knowledge/社会科学.md",
+    "Knowledge/自然科学.md",
     "Note/Tex/Latex Companion Note/环境配置.md",
     "Note/Tex/Latex Companion Note/封面设置.md",
-    "Note/Tex/Latex Companion Note/编号设置.md",
-    "Note/Tex/Latex Companion Note/引用.md",
-    "Dairy/24.07.01.md",
-    "2024-W27.md",
-    "Dairy/24.06.30.md",
-    "Untitled Kanban.md",
-    "Untitled.md",
+    "Knowledge",
+    "Inbox",
+    "Home Index",
+    "Resource",
+    "新建文件夹",
+    "Frank Mittelbach, Ulrike Fischer - The LaTeX Companion_ Parts I & II, 3rd Edition (Tools and Techniques for Computer Typesetting) (2023, Addison-Wesley Professional) - libgen.li.pdf",
+    "Pasted image 20240701195054.png",
     "Book/The LaTEX Companion.pdf",
     "Book/The TeXbook.pdf",
-    "annotate.md",
-    "Note/Tex/Latex Companion Note/Annotate.md",
-    "Book/Frank Mittelbach, Ulrike Fischer - The LaTeX Companion_ Parts I & II, 3rd Edition (Tools and Techniques for Computer Typesetting) (2023, Addison-Wesley Professional) - libgen.li.pdf",
-    "Drawing 2024-07-01 13.54.18.excalidraw.md",
     "Book/tennis/Tennis anatomy.pdf",
-    "Drawing 2024-07-01 13.54.11.excalidraw.md",
-    "Book/undergrade/Drawing 2024-07-01 13.52.28.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-01 13.51.22.excalidraw.md",
-    "Draw",
-    "Excalidraw/Drawing 2024-07-01 13.50.54.excalidraw.md",
-    "Excalidraw",
-    "Excalidraw/Drawing 2024-07-01 13.50.37.excalidraw.md",
-    "Recording 20240701134022.webm",
-    "Recording 20240701133858.webm",
-    "Dairy/24.07.02.md",
-    "Book/undergrade/数据结构（c语言版）.pdf",
-    "Book/undergrade/吉米多维奇.pdf",
     "Note/Tex/Latex Companion Note/Untitled.canvas",
-    "Note/Tex/Latex Companion Note/目录.md",
-    "Note/Tex/Latex Companion Note/制表.md",
-    "2024-07-01.md",
-    "时间管理.md",
     "Untitled.canvas",
     "Tex/Latex Companion Note/Untitled.canvas"
   ]
