@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0dfe77f891c07ce1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gitTest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/The LaTeX Companion by Frank Mittelbach, Ulrike Fischer.md"
+                "file": "gitTest.md"
               }
             }
           }
@@ -106,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/The LaTeX Companion by Frank Mittelbach, Ulrike Fischer.md",
+                "file": "gitTest.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -191,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/The LaTeX Companion by Frank Mittelbach, Ulrike Fischer.md",
+                "file": "gitTest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/The LaTeX Companion by Frank Mittelbach, Ulrike Fischer.md",
+                "file": "gitTest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,8 +312,9 @@
   },
   "active": "a6310289da45a456",
   "lastOpenFiles": [
-    "README.md",
     "Inbox/The LaTeX Companion by Frank Mittelbach, Ulrike Fischer.md",
+    "gitTest.md",
+    "README.md",
     "Resource/Frank Mittelbach, Ulrike Fischer - The LaTeX Companion_ Parts I & II, 3rd Edition.pdf",
     "TODO",
     "Note/Tex/Latex Companion Note/编号设置.md",
@@ -326,7 +340,6 @@
     "Knowledge/社会科学.md",
     "Knowledge/自然科学.md",
     "Note/Tex/Latex Companion Note/环境配置.md",
-    "Note/Tex/Latex Companion Note/封面设置.md",
     "Knowledge",
     "Inbox",
     "Home Index",
