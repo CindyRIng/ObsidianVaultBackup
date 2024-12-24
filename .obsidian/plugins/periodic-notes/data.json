@@ -4,7 +4,7 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "YY.MM.DD",
-    "folder": "Dairy",
+    "folder": "Dairy/DailyNote",
     "enabled": true
   },
   "weekly": {

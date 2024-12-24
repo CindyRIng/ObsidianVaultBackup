@@ -8,39 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "822d78799c82a61e",
+            "id": "ec517b850bb51fda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/河工网球社训练指南(试行).md",
+                "file": "Dairy/DailyNote/24.12.24.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "24.12.24"
             }
           },
           {
-            "id": "d160614f303e85cb",
+            "id": "b14d8e922a90ca6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairy/24.08.02.md",
+                "file": "Note/知识管理.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1312641d74bfba06",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              },
+              "icon": "lucide-file",
+              "title": "知识管理"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,7 +47,7 @@
       {
         "id": "84dc7669cd34413b",
         "type": "tabs",
-        "dimension": 67.7309007981756,
+        "dimension": 61.36363636363637,
         "children": [
           {
             "id": "9781c603dda01de2",
@@ -61,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -70,13 +67,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#网球技术的一般性质",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -84,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -92,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -100,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -109,8 +114,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairy/24.08.02.md"
-              }
+                "file": "Dairy/DailyNote/24.12.24.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 24.12.24"
             }
           }
         ],
@@ -119,7 +126,7 @@
       {
         "id": "8e6abdeaec8fc835",
         "type": "tabs",
-        "dimension": 32.2690992018244,
+        "dimension": 38.63636363636363,
         "children": [
           {
             "id": "f69bf5c79e261020",
@@ -127,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dairy/24.08.02.md",
+                "file": "Dairy/DailyNote/24.12.24.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -153,14 +160,16 @@
                   "scale": 0.8916864990836867,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of 24.12.24"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 274.5024719238281
+    "width": 296.50312423706055
   },
   "right": {
     "id": "9ac6ea4a52fc0095",
@@ -169,7 +178,7 @@
       {
         "id": "dd8474fc21b092b3",
         "type": "tabs",
-        "dimension": 35.87604290822408,
+        "dimension": 32.57497414684592,
         "children": [
           {
             "id": "faa639927ecb129a",
@@ -179,7 +188,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -187,7 +198,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -195,15 +208,28 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "853c1967b079dbda",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "238a0b577c06ce5f",
         "type": "tabs",
-        "dimension": 64.12395709177592,
+        "dimension": 67.42502585315408,
         "children": [
           {
             "id": "6625f86bf6cd68f4",
@@ -211,15 +237,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dairy/24.08.02.md",
+                "file": "Dairy/DailyNote/24.12.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 24.12.24"
             }
           },
           {
@@ -228,134 +256,100 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dairy/24.08.02.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+                "file": "Dairy/DailyNote/24.12.24.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 24.12.24"
             }
           },
           {
-            "id": "6e373c6beca5a7e5",
+            "id": "9736b7f34f2d4111",
             "type": "leaf",
             "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
-            "id": "eb09db863899e8d5",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 309.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "3d-graph-new:Global 3D Graph": false,
       "daily-notes:Open today's daily note": false,
       "audio-recorder:Start/stop recording": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-day-planner:Timeline": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
       "periodic-notes:Open today": false
     }
   },
-  "floating": {
-    "id": "5ad33d6332628aca",
-    "type": "floating",
-    "children": [
-      {
-        "id": "670b5b553bf9cf19",
-        "type": "window",
-        "children": [
-          {
-            "id": "4777520d1018f7d1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "18904634fa878923",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Resource/Frank Mittelbach, Ulrike Fischer - The LaTeX Companion_ Parts I & II, 3rd Edition.pdf",
-                    "page": 91,
-                    "left": -8,
-                    "top": 583,
-                    "zoom": 1.8771186440677967
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 330,
-        "y": 0,
-        "width": 600,
-        "height": 840,
-        "maximize": true,
-        "zoom": -0.5
-      }
-    ]
-  },
   "active": "a6310289da45a456",
   "lastOpenFiles": [
-    "Dairy/24.08.02.md",
-    "Resource/Frank Mittelbach, Ulrike Fischer - The LaTeX Companion_ Parts I & II, 3rd Edition.pdf",
-    "Inbox/为了教你正确地给鸡蛋剥壳，科学家煮了540个鸡蛋_腾讯新闻.md",
-    "Inbox/把信息交给未来的自己——构建你的第二大脑  Mr.Huang Talk.md",
-    "Dairy/24.07.29.md",
-    "Dairy/24.07.26.md",
-    "Dairy/24.07.27.md",
-    "Dairy/24.07.21.md",
-    "Inbox/网球参考来源.md",
-    "Inbox/最推荐的饮食比例：211 - 知乎.md",
-    "Inbox/河工网球社训练指南(试行).md",
-    "Inbox/(55 条消息) 《中国居民膳食指南（2022）》发布，新版有哪些变化？我们怎么吃才最健康？ - 知乎.md",
-    "Inbox/(55 条消息) 在保证营养的前提下，如何极尽简化饮食？ - 知乎.md",
-    "Dairy/24.07.16.md",
-    "Inbox/(55 条消息) 为什么营养学一定要强调多种类食物，为什么不能推崇直接使用复合维生素补齐？ - 知乎.md",
-    "Dairy/24.07.14.md",
-    "Inbox/The LaTeX Companion by Frank Mittelbach, Ulrike Fischer.md",
-    "Dairy/24.07.15.md",
-    "Inbox/围观了张一鸣近10年的微博，我整理了这231条干货_澎湃号·湃客_澎湃新闻-The Paper.md",
-    "Inbox/当我们在讨论双链时，我们讨论些什么 - 少数派.md",
-    "Inbox/PKMer_个人知识管理.md",
-    "Inbox/怎么看待应试思维？ - 知乎.md",
-    "Dairy/24.07.03.md",
-    "Inbox/Sparkle/对生活的理解.md",
-    "Inbox/Sparkle/对生命的理解.md",
-    "Inbox/Sparkle/就业的概率论解释.md",
-    "Knowledge/Mini-Summary",
-    "TODO",
-    "Knowledge",
-    "Inbox",
-    "Home Index",
-    "Resource",
-    "新建文件夹",
-    "Frank Mittelbach, Ulrike Fischer - The LaTeX Companion_ Parts I & II, 3rd Edition (Tools and Techniques for Computer Typesetting) (2023, Addison-Wesley Professional) - libgen.li.pdf",
-    "Pasted image 20240701195054.png",
-    "Book/The LaTEX Companion.pdf",
+    "Pasted image 20241224195730.png",
+    "Resource/img/Pasted image 20241224193507.png",
+    "Dairy/DailyNote/24.12.23.md",
+    "Note/知识管理.md",
+    "Dairy/DailyNote/24.12.24.md",
+    "Note/原则.md",
+    "Dairy/DailyNote/24.12.17.md",
+    "Note/计算机网络.md",
+    "Note/时间管理.md",
+    "Dairy/DailyNote/24.12.16.md",
+    "Dairy/DailyNote/24.12.20.md",
+    "Dairy/DailyNote/24.12.21.md",
+    "Project/Untitled.md",
+    "Project",
+    "Dairy/DailyNote/24.07.03.md",
+    "Dairy/DailyNote",
+    "Dairy/DailyNote/24.12.22.md",
+    "Knowledge/原则簿.md",
+    "Knowledge/方法论.md",
+    "Inbox/Book/Paul A. Samuelson_ William D. Nordhaus - Economics (2010, McGraw-Hill) - libgen.li.pdf",
+    "Resource/img/Pasted image 20241021143429.png",
+    "Inbox/Book",
+    "Note/关于网球 我们到底在做什么.md",
+    "Resource/img",
+    "Dairy/DailyNote/24.12.19.md",
+    "Dairy/DailyNote/24.12.09.md",
+    "Note/时间表.md",
+    "Dairy/DailyNote/24.12.18.md",
+    "Dairy/DailyNote/24.12.11.md",
+    "Dairy/DailyNote/24.12.10.md",
+    "Dairy/DailyNote/24.12.13.md",
+    "Dairy/DailyNote/24.12.12.md",
+    "Resource/img/Pasted image 20241212151244.png",
+    "Resource/img/Pasted image 20241213110501.png",
+    "Resource/img/Pasted image 20241213110430.png",
+    "Resource/img/Pasted image 20241212151250.png",
+    "Resource/img/Pasted image 20241211155742.png",
+    "Resource/img/Pasted image 20241212150919.png",
+    "Resource/img/Pasted image 20241212150915.png",
+    "Resource/img/Pasted image 20241212150906.png",
+    "Dairy/DailyNote/24.11.02.md",
+    "Inbox/Book/户根勤 - 网络是怎样连接的.pdf",
+    "谦&&张驰晨讯方案.pdf",
+    "Inbox/Book/Frank Mittelbach, Ulrike Fischer - The LaTeX Companion_ Parts I & II, 3rd Edition.pdf",
+    "Inbox/Book/保罗·萨缪尔森,威廉·诺德豪斯 - 经济学（第19版，中文本，典藏版） (2014, 商务印书馆) - libgen.li (1).pdf",
+    "Resource/img/网球训练图谱",
     "Note/Tex/Latex Companion Note/Untitled.canvas",
     "Untitled.canvas",
     "Tex/Latex Companion Note/Untitled.canvas"
